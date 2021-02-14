@@ -8,7 +8,7 @@ const Header = ({title}) => {
               
               <Button 
               color='green'
-              text='holis'
+              text='ADD'
               />
               </h1>
           
