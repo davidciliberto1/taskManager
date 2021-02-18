@@ -10,6 +10,10 @@ function App() {
   const [showAddTask, setShowAddTask] = useState(true)
   const [tasks, setTasks] = useState([]);
 
+// contador
+
+
+
   // Add Task
 
   const addTask = (task) => {
